@@ -1,0 +1,10 @@
+Package: ldc.data.prep
+Title:  Data Prepration for the Landscape Data Commons
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sarah", "McCord", , "sarah.mccord@usda.gov", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
